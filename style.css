@@ -23,7 +23,7 @@ body {
 	border-radius: 50%;
 }
 .about p {
-	font-size: 1.3em;
+	font-size: 1.8em;
 }
 .adobe_icon {
 	height: 20px;
@@ -35,7 +35,7 @@ body {
     margin: 20px auto;
 }
 .link {
-	font-size: 1.3em;
+	font-size: 1.7em;
     color: var(--gray);
     border: solid var(--gray) 2px;
     border-radius: 25px;
@@ -64,17 +64,17 @@ body {
 
 @media (max-width: 600px) {
 	.about p {
-		font-size: 1.2em;
+		font-size: 1.5em;
 	}
 	.links_block {
 		width: 95%;
 	}
 	.link {
-		font-size: 1em;
+		font-size: 1.4em;
 		padding: 10px;
 		margin: 10px 0;
 	    border-radius: 20px;
-	    border: solid var(--gray) 2px;
+	    border: solid var(--gray) 3px;
 	}
 }
 .mr {
