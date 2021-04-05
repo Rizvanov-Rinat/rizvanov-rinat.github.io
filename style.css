@@ -10,6 +10,7 @@ body {
     padding: 0;	
 	color: var(--gray);
     min-height: 100vh;
+	max-width: 100%;
 	font-family: 'Noto Sans JP', sans-serif;
     background: radial-gradient(ellipse at top, var(--bg) 0%, var(--bg2) 100%);
 }
@@ -22,7 +23,7 @@ body {
 }
 .about img {
 	margin: 30px 0px 0px 0px;
-	max-width: 400px;
+	max-width: 300px;
 	width: 50%;
 	height: 50%;
 /*    height: auto;*/
