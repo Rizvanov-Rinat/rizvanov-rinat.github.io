@@ -84,7 +84,7 @@ body {
 	margin-right: 8px;
 }
 .adobe_ad {
-	margin: 20px;
+	margin: 20px 20px 100px;
 	text-align: center;
 }
 @media (hover: hover) {
