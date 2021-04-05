@@ -9,12 +9,12 @@ body {
     margin: 0;
     padding: 0;	
 	color: var(--gray);
-    min-height: 100%;
+    min-height: 100vh;
 	font-family: 'Noto Sans JP', sans-serif;
     background: radial-gradient(ellipse at top, var(--bg) 0%, var(--bg2) 100%);
 }
 .bone {
-	width: 100%;
+	width: 100vw;
 	height: auto;
 }
 .about {
