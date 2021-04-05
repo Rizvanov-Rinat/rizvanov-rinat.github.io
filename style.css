@@ -32,7 +32,6 @@ body {
 	height: 20px;
 	color: var(--gray);
 }
-
 .links_block {
 	max-width: 750px;
     margin: 20px auto;
@@ -50,6 +49,10 @@ body {
     text-decoration: none;
 }
 @media (max-width: 1025px) {
+	.about img {
+		width: 300px;
+		height: 300px;
+	}
 	.about p {
 		font-size: 2.4em;
 	}
@@ -65,7 +68,6 @@ body {
 	    border: solid var(--gray) 3px;
 	}
 }
-
 @media (max-width: 700px) {
 	.about p {
 		font-size: 1.5em;
