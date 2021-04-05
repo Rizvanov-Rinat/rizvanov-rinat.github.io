@@ -15,7 +15,6 @@ body {
     background: radial-gradient(ellipse at top, var(--bg) 0%, var(--bg2) 100%);
 }
 .bone {
-	width: 100vw;
 	height: auto;
 }
 .about {
